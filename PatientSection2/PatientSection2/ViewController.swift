@@ -4,7 +4,7 @@
 //  Input: NONE
 //  Output:Patient name and whether they have a fever or not.
 //  Created by Jocelyn M. Rodriguez on 4/14/20.
-//  Copyright © 2020 CUNY Borough of Manhattan Community College. All rights reserved.
+//  Copyright © 2020 Jocelyn M. Rodriguez. All rights reserved.
 
 
 import UIKit
